@@ -6,8 +6,8 @@
 <a href="https://t.me/mr_MKN"><img title="Telegram" src="https://img.shields.io/static/v1?label=Mr.MKN&message=TG&color=blue-green"></a>
 
 <p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrMKN&&show_icons=true&theme=purple" alt="MrMKN"/></p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMKN&layout=compact&theme=tokyonight" align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrMKN&&show_icons=true&theme=midnight-purple" alt="MrMKN"/></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMKN&layout=compact&theme=midnight-purple" align="center">
 
 
 <p align="center">
