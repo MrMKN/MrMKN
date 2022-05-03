@@ -3,7 +3,7 @@
 
 
 <a href="https://github.com/MrMKN">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=TGExplore&show_icons=true&theme=dark&line_height=30" alt="Mr.MKN TG'S github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=FayasNoushad&show_icons=true&theme=dark&line_height=30" alt="Mr.MKN TG'S github stats"/>
 </a>
 <div align="center">
 <p align="center">&nbsp;
