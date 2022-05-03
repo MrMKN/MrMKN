@@ -4,7 +4,9 @@
 
 <a href="https://github.com/MrMKN">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrMKN&show_icons=true&theme=dark&line_height=30" alt="Mr.MKN TG'S github stats"/>
-</a><p align="center">&nbsp;
+</a>
+<p align="center">
+<p align="center">&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMKN&layout=compact&theme=tokyonight" align="center">
 
 
