@@ -3,11 +3,9 @@
 
 
 <a href="https://github.com/MrMKN">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=No-OnE-Kn0wS-Me&show_icons=true&theme=dark&line_height=30" alt="Ｈｉｔｓｕｋａ's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=No-OnE-Kn0wS-Me&show_icons=true&theme=dark&line_height=30" alt="Mr.MKN TG'S github stats"/>
 </a>
 <div align="center">
-<p align="center">
-I AM USED LANGUAGE'S
 <p align="center">&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMKN&layout=compact&theme=tokyonight" align="center">
 
@@ -19,5 +17,6 @@ I AM USED LANGUAGE'S
 <p align="center">
 <img width="50%" src="https://github-profile-trophy.vercel.app/?username=MrMKN&theme=darkhub" />
 </p>
+
 
 
