@@ -1,6 +1,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+𝗠𝗞𝗡'𝗦+𝗚𝗶𝘁𝗛𝘂𝗯!;𝗜𝗮𝗺+𝗠𝘂𝗵𝗮𝗺𝗺𝗲𝗱+𝗞+𝗡!;𝗜𝗮𝗺+𝗷𝘂𝘀𝘁+𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺+𝗕𝗼𝘁+𝗠𝗮𝗸𝗲𝗿!)</p>
 <p align="center">
 
+<h3 align="center">Contact me<img align="center" <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+<p align="center">
 [![MKN BOTZ](https://img.shields.io/static/v1?label=MKN&message=BOTZ&color=critical)](https://t.me/mkn_bots_updates)
 
 <p align="center">&nbsp;
@@ -16,5 +18,5 @@
 </p>
 
 
-[![Sparkline](https://stars.medv.io/MrMKN/MrMKN.svg)](https://github.com/MrMKN/MrMKN)
+[![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/EvamariaTG/EvaMaria)
 
