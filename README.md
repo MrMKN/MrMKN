@@ -2,12 +2,10 @@
 <p align="center">
 
 
-<h3 align="center">Contact me<img align="center" <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
-<p align="center">
-<a href="https://t.me/MrMKN"><img title="Telegram" src="https://img.shields.io/badge/TELEGRAM-green?style=for-the-badge&logo=telegram"></a>
-<p align="center">&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMKN&layout=compact&theme=tokyonight" align="center">
 
+<p align="center">&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrMKN&&show_icons=true&theme=green" alt="Zinan100"/></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMKN&layout=compact&theme=tokyonight" align="center">
 
 
 <p align="center">
