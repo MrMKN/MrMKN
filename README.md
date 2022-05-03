@@ -8,14 +8,14 @@
 𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐓𝐈𝐎𝐍 𝐆𝐑𝐀𝐅 
 </p>
 <p align="center">
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=MrMKN&custom_title=Contribution+Graph&theme=xcode" />
-<img src="https://github-readme-stats.vercel.app/api?username=MrMKN&hide=prs,issues&show_icons=true&title_color=3E4405F&text_color=3E4405F&icon_color=3E4405F&bg_color=3E4405F" alt="SVR's github stats" />
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=subinps&custom_title=Contribution+Graph&theme=xcode" />
+<img src="https://github-readme-stats.vercel.app/api?username=subinps&hide=prs,issues&show_icons=true&title_color=3E4405F&text_color=3E4405F&icon_color=3E4405F&bg_color=3E4405F" alt="SVR's github stats" />
 </p>
 
 <p align="center">
 I AM USED LANGUAGE'S
 <p align="center">&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMKN&layout=compact&theme=tokyonight" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subinps&layout=compact&theme=tokyonight" align="center">
 
 
 
