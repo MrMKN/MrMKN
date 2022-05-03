@@ -2,16 +2,10 @@
 <p align="center">
 
 
-
-
-<p align="center">
-𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐓𝐈𝐎𝐍 𝐆𝐑𝐀𝐅 
-</p>
-<p align="center">
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=subinps&custom_title=Contribution+Graph&theme=xcode" />
-<img src="https://github-readme-stats.vercel.app/api?username=LuciferMoringStarDevil&hide=prs,issues&show_icons=true&title_color=3E4405F&text_color=3E4405F&icon_color=3E4405F&bg_color=3E4405F" alt="SVR's github stats" />
-</p>
-
+<a href="https://github.com/MrMKN">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=No-OnE-Kn0wS-Me&show_icons=true&theme=dark&line_height=30" alt="Ｈｉｔｓｕｋａ's github stats"/>
+</a>
+<div align="center">
 <p align="center">
 I AM USED LANGUAGE'S
 <p align="center">&nbsp;
@@ -26,6 +20,4 @@ I AM USED LANGUAGE'S
 <img width="50%" src="https://github-profile-trophy.vercel.app/?username=MrMKN&theme=darkhub" />
 </p>
 
-<a href="https://github.com/MrMKN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMKN&theme=dark&hide_langs_below=1" />
-</a>
+
