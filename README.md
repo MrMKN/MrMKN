@@ -16,7 +16,7 @@ Iam a Simple Programmer & jus Bot Maker
 
 
 <p align="center">
-📊 𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐓𝐈𝐎𝐍 𝐆𝐑𝐀𝐅 📊
+𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐓𝐈𝐎𝐍 𝐆𝐑𝐀𝐅 
 </p>
 <p align="center">
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=MrMKN&custom_title=Contribution+Graph&theme=xcode" />
