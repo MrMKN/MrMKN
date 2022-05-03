@@ -4,12 +4,12 @@
 Iam a Simple Programmer & jus Bot Maker 
 
 
-
-
 <img src="https://telegra.ph/file/2e2a07e86066538ed7406.jpg" alt="MKN BOTZ LOGO">
 </p>
 <h1 align="center">
   <b>MKN BOTZ</b>
 
 
-
+<p align="center">&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrMKN&&show_icons=true&theme=midnight-purple" alt="MrMKN"/></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMKN&layout=compact&theme=tokyonight" align="center">
