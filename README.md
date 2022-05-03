@@ -25,3 +25,7 @@ I AM USED LANGUAGE'S
 <p align="center">
 <img width="50%" src="https://github-profile-trophy.vercel.app/?username=MrMKN&theme=darkhub" />
 </p>
+
+<a href="https://github.com/MrMKN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMKN&theme=dark&hide_langs_below=1" />
+</a>
