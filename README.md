@@ -5,6 +5,7 @@
 <p align="center">
 <a href="https://t.me/mr_MKN"><img title="Telegram" src="https://img.shields.io/static/v1?label=Mr.MKN&message=TG&color=blue-green"></a>
 
+<p align="right">
 𝗠𝗬 𝗣𝗥𝗢𝗙𝗜𝗟𝗘
 
 𝙼𝚢 𝙽𝚊𝚖𝚎 - 𝙼𝚄𝙷𝙰𝙼𝙼𝙴𝙳 𝙺.𝙽 (𝙼𝙺𝙽) 😁
@@ -15,7 +16,7 @@
 𝚑𝚘𝚋𝚋𝚢 - 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 & 𝙴𝚕𝚎𝚌𝚝𝚛𝚘𝚗𝚒𝚌𝚜 & 𝙷𝚊𝚛𝚍 𝚠𝚊𝚛𝚎 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚐 & 🙏
 
 🔥 𝙼𝚘𝚜𝚝 𝚊𝚌𝚝𝚒𝚟𝚎 𝚜𝚘𝚌𝚒𝚊𝚕 𝚖𝚎𝚍𝚒𝚊 𝚒𝚜 ⚡️ 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 ⚡️ 
-<p align="side">
+<p align="right">
 
 <p align="center">&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrMKN&&show_icons=true&theme=aura" alt="MrMKN"/></p>
