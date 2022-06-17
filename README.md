@@ -23,7 +23,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrMKN&&show_icons=true&theme=aura" alt="MrMKN"/></p>  
 <p align="center">
 
-
+Used Languages 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMKN&layout=compact&theme=jolly" align="center">
 
 
 🏆 𝐓𝐑𝐎𝐏𝐇𝐈𝐄𝐒 🏆
