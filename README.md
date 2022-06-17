@@ -35,4 +35,4 @@
 
 <a href="https://t.me/mr_MKN"><img title="Telegram" src="https://img.shields.io/static/v1?label=Mr.MKN&message=TG&color=blue-green"></a>
 
-Thanks for All
+Thanks for All❣️
