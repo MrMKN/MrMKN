@@ -37,13 +37,10 @@ Used Languages
 
 <a href="https://t.me/mr_MKN"><img title="Telegram" src="https://img.shields.io/static/v1?label=Mr.MKN&message=TG&color=blue-green"></a>
 
-
-<p align="center">
 <b>𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒</b>
-</p>
-<p align="center">
+
 <img width="50%" src="https://gpvc.arturio.dev/MrMKN" alt="Profile views" />
-</p>
+
 
 
 Thanks for All❣️
