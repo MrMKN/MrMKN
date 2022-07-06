@@ -19,8 +19,9 @@
 - 𝙼𝚘𝚜𝚝 𝚊𝚌𝚝𝚒𝚟𝚎 𝙾𝚗 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 🔥
 
 
-<p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrMKN&&show_icons=true&theme=aura" alt="MrMKN"/></p>  
+<p align="center">
+<img src="https://github-stats-alpha.vercel.app/api/?username=MrMKN&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
+</p>
 <p align="center">
 
 Used Languages 
@@ -46,6 +47,4 @@ Used Languages
 Thanks for All❣️
 
 
-<p align="center">
-<img src="https://github-stats-alpha.vercel.app/api/?username=MrMKN&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
-</p>
+
