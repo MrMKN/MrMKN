@@ -28,11 +28,14 @@ Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMKN&layout=compact&theme=jolly" align="center">
 
 
+
 🏆 𝐓𝐑𝐎𝐏𝐇𝐈𝐄𝐒 🏆
-</p>
+ 
 <p align="center">
-<img width="50%" src="https://github-profile-trophy.vercel.app/?username=MrMKN&theme=darkhub" />
+<img width="13%" src="https://telegra.ph/file/b490b39f93ec158ddf21f.png" />
+<img width="13%" src="https://telegra.ph/file/abafe2bd3d3bbe1e8f740.png" />
 </p>
+
 
 [![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/EvamariaTG/EvaMaria)
 
