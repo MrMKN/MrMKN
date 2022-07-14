@@ -33,7 +33,7 @@ Used Languages
  
 <p align="center">
 <img width="13%" src="https://telegra.ph/file/b490b39f93ec158ddf21f.png" />
-<img width="13%" src="https://telegra.ph/file/abafe2bd3d3bbe1e8f740.png" />
+<img width="13%" src="https://telegra.ph/file/72882469165faec6d2e03.jpg" />
 </p>
 
 
