@@ -45,7 +45,7 @@ Used Languages
 
 <img width="50%" src="https://gpvc.arturio.dev/MrMKN" alt="Profile views" />
 
-
+<p align="center">
 <h3 align="center">Contact me<img align="center" <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 <p align="center">
 <a href="https://t.me/zinan00100_1bot"><img title="Telegram" src="https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram"></a>
