@@ -22,8 +22,11 @@
 <p align="center">
 <img src="https://github-stats-alpha.vercel.app/api/?username=MrMKN&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>
-<p align="center">
 
+<p align="center">&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrMKN&&show_icons=true&theme=midnight-purple" alt="MrMKN"/></p>        
+ 
+<p align="center">
 Used Languages 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMKN&layout=compact&theme=tokyonight" align="center">
 
@@ -45,9 +48,7 @@ Used Languages
 <img width="50%" src="https://gpvc.arturio.dev/MrMKN" alt="Profile views" />
 
 
-<p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=makxcarlo&&show_icons=true&theme=midnight-purple" alt="makxcarlo"/></p>
- 
+
 
 Thanks for All❣️
 
