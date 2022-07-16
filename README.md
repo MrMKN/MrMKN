@@ -20,7 +20,7 @@
 
 
 <p align="center">
-<img src="https://github-stats-alpha.vercel.app/api/?username=makxcarlo&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
+<img src="https://github-stats-alpha.vercel.app/api/?username=MrMKN&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>
 <p align="center">
 
@@ -44,6 +44,11 @@ Used Languages
 <b>𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒</b>
 
 <img width="50%" src="https://gpvc.arturio.dev/MrMKN" alt="Profile views" />
+
+
+<h3 align="center">Contact me<img align="center" <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+<p align="center">
+<a href="https://t.me/zinan00100_1bot"><img title="Telegram" src="https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram"></a>
 
 
 
