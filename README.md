@@ -13,7 +13,7 @@
 <p align="left">
 • Language: English/Malayalam/Tamil/Python 
 <p align="left">
-• Work: Python dev, cybersec, smallscale business, crypto trader
+• Work: Python dev, cybersec, electronics mech, smallscale business, crypto trader
 
 <p align="center">
   <img src="https://github-stats-alpha.vercel.app/api/?username=MrMKN&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
