@@ -1,5 +1,5 @@
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗛𝗮𝗶+𝗜𝗮𝗺+𝗠𝗿+𝗠𝗞𝗡;𝗜𝗮𝗺+𝗔+𝗣𝘆𝘁𝗵𝗼𝗻+𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗛𝗮𝗶+𝗜𝗮𝗺+𝗠𝗿+VITTAL;𝗜𝗮𝗺+𝗔+𝗣𝘆𝘁𝗵𝗼𝗻+𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿)
 
 
 <p align="left">
