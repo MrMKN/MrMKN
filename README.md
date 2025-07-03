@@ -18,7 +18,7 @@
 
 ## 🌐 CONNECT WITH ME
 
-- 🔗 **Website:** [mr‑mkn.in](https://mr‑mkn.in)  
+- 🔗 **Website:** [mr‑mkn.in](https://www.mr-mkn.in/)  
 - 💼 **LinkedIn:** [muhammed‑kn](https://www.linkedin.com/in/muhammed-kn)  
 - 📸 **Instagram:** [@mr.mkn_ig](https://www.instagram.com/mr.mkn_ig)  
 - ▶️ **YouTube:** [Mr‑MKN‑YT](https://www.youtube.com/@Mr-MKN-YT)  
