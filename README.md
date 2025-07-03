@@ -54,17 +54,5 @@
 - 👥 **Stats**: 12+ happy clients, 15+ projects, 2+ years of experience
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api/?username=MrMKN&cc=000&tc=00ff00&ic=fff000&bc=fff" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrMKN&show_icons=true&theme=midnight-purple" />
-</p>
-
----
-
 ## 🙏 Thank You All ❣️
 
