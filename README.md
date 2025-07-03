@@ -47,12 +47,11 @@
 
 ## 🏢 STARTUP Company: [WebLysi](https://www.weblysi.in)
 
-**WebLysi** is a creative tech startup based in Kannur that delivers full-stack digital solutions—websites, graphic design, hosting, and marketing—to help brands grow online :contentReference[oaicite:2]{index=2}:
+**WebLysi** is a creative tech team offering web development, design, digital marketing, and digital solutions to help businesses grow online.
 
 - ✨ **Services**: Web Development, Graphic & Brand Design, AWS Web Hosting, Digital Marketing (SEO, PPC, Social Media), Online Training  
-- 💡 **Tech Stack**: Python, Laravel, AWS, React, Node.js, Angular, Flutter, Docker, Terraform & more :contentReference[oaicite:3]{index=3}  
-- 👥 **Stats**: 12+ happy clients, 15+ projects, 2+ years of experience :contentReference[oaicite:4]{index=4}
-
+- 💡 **Tech Stack**: Python, Laravel, AWS, React, Node.js, Angular, Flutter, Docker & more  
+- 👥 **Stats**: 12+ happy clients, 15+ projects, 2+ years of experience
 ---
 
 ## 📊 GitHub Stats
@@ -69,6 +68,3 @@
 
 ## 🙏 Thank You All ❣️
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xUPGcl3ijl0bWf4ecw/giphy.gif" height="120" />
-</p>
