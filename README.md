@@ -1,35 +1,74 @@
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗛𝗮𝗶+𝗜𝗮𝗺+𝗠𝗿+𝗠𝗞𝗡;𝗜𝗮𝗺+𝗔+𝗣𝘆𝘁𝗵𝗼𝗻+𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿)
-
-
-<p align="left">
-𝗠𝗬 𝗣𝗥𝗢𝗙𝗜𝗟𝗘
-<p align="left">
-• Nmae: Mr MKN
-<p align="left">
-• Age: 20
-<p align="left">
-• Place: Kannur/Kerala/India
-<p align="left">
-• Language: English/Malayalam/Tamil/Python 
-<p align="left">
-• Work: Python dev, cybersec, electronics mech, smallscale business, crypto trader
-
+<!-- Typing SVG -->
 <p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api/?username=MrMKN&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=450&lines=𝗛𝗲𝗹𝗹𝗼+%F0%9F%91%8B+I'm+Mr+MKN;𝗔+𝗣𝘆𝘁𝗵𝗼𝗻+𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿+%F0%9F%90%8D;𝗟𝗲𝘁'𝘀+𝗕𝘂𝗶𝗹𝗱+𝗧𝗵𝗲+𝗙𝘂𝘁𝘂𝗿𝗲+%F0%9F%9A%80" alt="Typing SVG">
 </p>
 
-<p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrMKN&&show_icons=true&theme=midnight-purple" alt="MrMKN"/>
-</p>        
+---
 
-<p align="center">Used Languages </p>
+## 🌟 𝗠𝗬 𝗣𝗥𝗢𝗙𝗜𝗟𝗘
+
+- 🧑‍💻 **Name:** Mr MKN  
+- 🎂 **Age:** 21  
+- 🌍 **Country:** India  
+- 📍 **Place:** Kannur, Kerala  
+- 🗣️ **Languages:** English / Malayalam  
+- 🛠️ **Domains:** Software Developer, Cybersecurity  
+
+---
+
+## 🌐 CONNECT WITH ME
+
+- 🔗 **Website:** [mr‑mkn.in](https://mr‑mkn.in)  
+- 💼 **LinkedIn:** [muhammed‑kn](https://www.linkedin.com/in/muhammed-kn)  
+- 📸 **Instagram:** [@mr.mkn_ig](https://www.instagram.com/mr.mkn_ig)  
+- ▶️ **YouTube:** [Mr‑MKN‑YT](https://www.youtube.com/@Mr-MKN-YT)  
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMKN&layout=compact&theme=tokyonight" align="center">
+  <img src="https://github-stats-alpha.vercel.app/api/?username=MrMKN&cc=000&tc=00ff00&ic=fff000&bc=fff" />
 </p>
 
-<h1 align="center">Thanks for All❣️ </h1>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrMKN&show_icons=true&theme=midnight-purple" />
+</p>
 
+---
 
+## 💻 Most Used Languages
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMKN&layout=compact&theme=tokyonight" />
+</p>
 
+---
+
+## 🏢 STARTUP Company: [WebLysi](https://www.weblysi.in)
+
+**WebLysi** is a creative tech startup based in Kannur that delivers full-stack digital solutions—websites, graphic design, hosting, and marketing—to help brands grow online :contentReference[oaicite:2]{index=2}:
+
+- ✨ **Services**: Web Development, Graphic & Brand Design, AWS Web Hosting, Digital Marketing (SEO, PPC, Social Media), Online Training  
+- 💡 **Tech Stack**: Python, Laravel, AWS, React, Node.js, Angular, Flutter, Docker, Terraform & more :contentReference[oaicite:3]{index=3}  
+- 👥 **Stats**: 12+ happy clients, 15+ projects, 2+ years of experience :contentReference[oaicite:4]{index=4}
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-stats-alpha.vercel.app/api/?username=MrMKN&cc=000&tc=00ff00&ic=fff000&bc=fff" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrMKN&show_icons=true&theme=midnight-purple" />
+</p>
+
+---
+
+## 🙏 Thank You All ❣️
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xUPGcl3ijl0bWf4ecw/giphy.gif" height="120" />
+</p>
